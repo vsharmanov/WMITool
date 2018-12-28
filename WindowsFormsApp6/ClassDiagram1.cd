@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="WindowsFormsApp6.CIM_LogicalDevice">
+    <Position X="3.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAUAAAAAEAEBAAAAAABIAAAQAAAAAUAAgAEEAAEAAA=</HashCode>
+      <FileName>Classes\CIM_LogicalDevice.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApp6.CIM_LogicalElement" Collapsed="true">
+    <Position X="3.25" Y="3" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\CIM_LogicalElement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApp6.CIM_ManagedSystemElement">
+    <Position X="2" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAgAAAAAAAAAAQAAAAAAAAACAIAAAAAAAA=</HashCode>
+      <FileName>Classes\CIM_ManagedSystemElement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApp6.CIM_PhysicalElement">
+    <Position X="0.5" Y="3" Width="2" />
+    <TypeIdentifier>
+      <HashCode>IAgAAAAAAACgAAAAQAAAIAAAAAEAAAAAAAgAEAAAAAI=</HashCode>
+      <FileName>Classes\CIM_PhysicalElement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApp6.CIM_Processor">
+    <Position X="3.5" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAAAEQkBAAAAAAAAQAAAAAhAAAIAAARAQ=</HashCode>
+      <FileName>Classes\CIM_Processor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApp6.Win32_Processor">
+    <Position X="3.5" Y="14.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAiAQIAgAAYAgJAFSQIBhIAAAdFAQAAJAQAAAQAAAAA=</HashCode>
+      <FileName>Classes\Win32_Processor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
